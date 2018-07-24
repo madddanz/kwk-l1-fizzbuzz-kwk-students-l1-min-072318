@@ -10,4 +10,4 @@ end
 end
 
 
-fizzbuzz(26)
+fizzbuzz(25)
