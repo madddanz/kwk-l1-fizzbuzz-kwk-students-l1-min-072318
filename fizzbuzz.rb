@@ -1,4 +1,4 @@
-def fizzbuzz
+def fizzbuzzzz(fizzbuzz)
 if fizzbuzz%3 == 0 
   puts "fizz"
 elsif fizzbuzz%5 == 0
