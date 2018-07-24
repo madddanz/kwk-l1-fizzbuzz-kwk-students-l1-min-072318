@@ -9,5 +9,5 @@ else NIL
 end
 end
 
-fizzbuzz(15)
+
 fizzbuzz(26)
