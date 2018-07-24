@@ -10,4 +10,4 @@ end
 end
 
 fizzbuzz(15)
-fizzbuzz(6)
+fizzbuzz(26)
