@@ -8,3 +8,5 @@ puts "fizzbuzz"
 else NIL
 end
 end
+
+fizzbuzz(15)
